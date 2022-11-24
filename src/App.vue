@@ -2,17 +2,20 @@
   <div>
     <HeaderTop></HeaderTop>
     <ContentPage></ContentPage>
+    <BlueLine></BlueLine>
   </div>
 </template>
 
 <script>
 import HeaderTop from '@/components/HeaderTop.vue';
 import ContentPage from '@/components/ContentPage.vue';
+import BlueLine from '@/components/BlueLine.vue';
 
 export default {
   components: {
     HeaderTop,
     ContentPage,
+    BlueLine,
   },
 };
 </script>

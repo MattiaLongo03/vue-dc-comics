@@ -14,7 +14,7 @@
         align-items: center;
         justify-content: center;
         height: 100px;
-        background-color: black;
+        background-color: #1C1C1C;
         p{
             color: white;
         };
