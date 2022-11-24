@@ -1,0 +1,22 @@
+<template>
+    <div>
+        <p>Content Here</p>
+    </div>
+</template>
+
+<script>
+
+</script>
+
+<style lang="scss" scoped>
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100px;
+        background-color: black;
+        p{
+            color: white;
+        };
+    }
+</style>
