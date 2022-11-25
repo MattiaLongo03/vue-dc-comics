@@ -56,7 +56,5 @@
         .img{
             padding: 10px;
         }
-
-        
     }
 </style>
