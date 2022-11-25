@@ -57,5 +57,6 @@
         display: flex;
         background-image: url(../assets/footer-bg.jpg);
         background-repeat: no-repeat;
+        background-size: cover;
     }
 </style>
