@@ -1,10 +1,10 @@
 <template>
   <div>
-    <HeaderTop></HeaderTop>
-    <ContentPage></ContentPage>
-    <BlueLine></BlueLine>
-    <Footer_1></Footer_1>
-    <Footer_2></Footer_2>
+    <HeaderTop />
+    <ContentPage />
+    <BlueLine />
+    <Footer_1 />
+    <Footer_2 />
   </div>
 </template>
 
