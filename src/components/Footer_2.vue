@@ -1,18 +1,33 @@
 <template>
-    <div class="container">
-        <div class="sign-up">
-            <p>SIGN-UP NOW!</p>
-        </div>
-
-        <div class="follow">
-            <span>FOLLOW US</span>
-            <img src="../assets/footer-facebook.png" alt="">
-            <img src="../assets/footer-twitter.png" alt="">
-            <img src="../assets/footer-youtube.png" alt="">
-            <img src="../assets/footer-pinterest.png" alt="">
-            <img src="../assets/footer-periscope.png" alt="">
-        </div>
+  <div class="container">
+    <div class="sign-up">
+      <p>SIGN-UP NOW!</p>
     </div>
+
+    <div class="follow">
+      <span>FOLLOW US</span>
+      <img
+        src="../assets/footer-facebook.png"
+        alt=""
+      >
+      <img
+        src="../assets/footer-twitter.png"
+        alt=""
+      >
+      <img
+        src="../assets/footer-youtube.png"
+        alt=""
+      >
+      <img
+        src="../assets/footer-pinterest.png"
+        alt=""
+      >
+      <img
+        src="../assets/footer-periscope.png"
+        alt=""
+      >
+    </div>
+  </div>
 </template>
 
 <script>

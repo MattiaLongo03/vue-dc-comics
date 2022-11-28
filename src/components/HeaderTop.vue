@@ -1,7 +1,10 @@
 <template>
   <header>
     <div class="logo">
-      <img src="../assets/dc-logo.png" alt="">
+      <img
+        src="../assets/dc-logo.png"
+        alt=""
+      >
     </div>
     <ul>
       <li>CHARACTERS</li>

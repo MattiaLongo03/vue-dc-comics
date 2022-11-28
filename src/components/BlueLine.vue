@@ -1,36 +1,51 @@
 <template>
-    <div class="container">
-        <div class="info">
-            <div class="img">
-                <img src="../assets/buy-comics-digital-comics.png" alt="">
-            </div>
-            <span>DIGITAL COMICS</span>
-        </div>
-        <div class="info">
-            <div class="img">
-                <img src="../assets/buy-comics-merchandise.png" alt="">
-            </div>
-            <span>DC MERCHANDISE</span>
-        </div>
-        <div class="info">
-            <div class="img">
-                <img src="../assets/buy-comics-subscriptions.png" alt="">
-            </div>
-            <span>SUBSCRITION</span>
-        </div>
-        <div class="info">
-            <div class="img">
-                <img src="../assets/buy-comics-shop-locator.png" alt="">
-            </div>
-            <span>COMIC SHOP LOCATION</span>
-        </div>
-        <div class="info">
-            <div class="img">
-                <img src="../assets/buy-dc-power-visa.svg" alt="">
-            </div>
-            <span>DC POWER VISA</span>
-        </div>
+  <div class="container">
+    <div class="info">
+      <div class="img">
+        <img
+          src="../assets/buy-comics-digital-comics.png"
+          alt=""
+        >
+      </div>
+      <span>DIGITAL COMICS</span>
     </div>
+    <div class="info">
+      <div class="img">
+        <img
+          src="../assets/buy-comics-merchandise.png"
+          alt=""
+        >
+      </div>
+      <span>DC MERCHANDISE</span>
+    </div>
+    <div class="info">
+      <div class="img">
+        <img
+          src="../assets/buy-comics-subscriptions.png"
+          alt=""
+        >
+      </div>
+      <span>SUBSCRITION</span>
+    </div>
+    <div class="info">
+      <div class="img">
+        <img
+          src="../assets/buy-comics-shop-locator.png"
+          alt=""
+        >
+      </div>
+      <span>COMIC SHOP LOCATION</span>
+    </div>
+    <div class="info">
+      <div class="img">
+        <img
+          src="../assets/buy-dc-power-visa.svg"
+          alt=""
+        >
+      </div>
+      <span>DC POWER VISA</span>
+    </div>
+  </div>
 </template>
 
 <script>
