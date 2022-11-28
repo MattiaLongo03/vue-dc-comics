@@ -2,6 +2,7 @@
   <div>
     <HeaderTop />
     <ContentPage />
+    <CardFilm />
     <BlueLine />
     <Footer_1 />
     <Footer_2 />
@@ -11,6 +12,7 @@
 <script>
 import HeaderTop from '@/components/HeaderTop.vue';
 import ContentPage from '@/components/ContentPage.vue';
+import CardFilm from '@/components/CardFilm.vue'
 import BlueLine from '@/components/BlueLine.vue';
 import Footer_1 from '@/components/Footer_1.vue';
 import Footer_2 from '@/components/Footer_2.vue';
@@ -19,6 +21,7 @@ export default {
   components: {
     HeaderTop,
     ContentPage,
+    CardFilm,
     BlueLine,
     Footer_1,
     Footer_2,
